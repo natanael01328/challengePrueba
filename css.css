@@ -1,0 +1,41 @@
+
+
+
+.container{ 
+    background-color: yellow;
+}
+
+.container2{
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    color: black;
+    margin:100px auto;
+    padding: 0px 0px 0px 20px;
+
+}
+
+.emcabezado{
+    width: 95%;
+    padding: 20px 0px 0px 0px;
+}
+
+p{
+    width: 90%;
+   
+}
+
+.estilo1{
+    background: yellow;
+    width: 15%;
+    
+}
+
+.footerimagen{
+    width: 60px;
+    float: left;
+}
+
+.footer1{
+    padding: 30px;
+}
