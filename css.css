@@ -2,22 +2,26 @@
 
 
 .container{ 
-    background-color: yellow;
+    background-color: rgba(202, 202, 12, 0.637);
+    height: 1000px;
+    padding: 2px 0px 0px 0px;
 }
 
 .container2{
-    width: 30%;
-    height: 100%;
+    width: 25%;
     background-color: white;
     color: black;
-    margin:100px auto;
+    margin: 100px auto;
     padding: 0px 0px 0px 20px;
+    border-radius: 15px ;
+    border: solid 1px black;
 
 }
 
 .emcabezado{
     width: 95%;
     padding: 20px 0px 0px 0px;
+    border-radius: 15px ;
 }
 
 p{
@@ -32,10 +36,7 @@ p{
 }
 
 .footerimagen{
-    width: 60px;
+    width: 50px;
     float: left;
-}
-
-.footer1{
-    padding: 30px;
+    border-radius: 30px ;
 }
